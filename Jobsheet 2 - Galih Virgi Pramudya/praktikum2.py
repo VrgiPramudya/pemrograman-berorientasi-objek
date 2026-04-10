@@ -1,4 +1,4 @@
-# File utama main.py yang mengimpor modul geometri.py
+# File utama praktikum2.py yang mengimpor modul geometri.py
 
 # Mengimpor modul geometri
 import geometri
